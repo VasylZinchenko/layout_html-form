@@ -1,1 +1,15 @@
 /* styles go here */
+/* styles go here */
+.form-field {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.selection {
+  overflow: hidden;
+}
+
+.form-group {
+  margin-bottom: 20px;
+  padding-bottom: 0;
+}
